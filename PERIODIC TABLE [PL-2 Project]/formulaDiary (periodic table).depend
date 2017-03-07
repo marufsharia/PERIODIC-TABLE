@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1418138758 source:e:\source code\c++\formuladiary (periodic table)\formula.cpp
+	"formula.h"
+
+1418135171 e:\source code\c++\formuladiary (periodic table)\formula.h
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<iostream>
+	"windows.h"
+
+1418132033 source:e:\source code\c++\formuladiary (periodic table)\main.cpp
+	"formula.h"
+
+1418156172 source:j:\formuladiary (periodic table)\formula.cpp
+	"formula.h"
+
+1418135172 j:\formuladiary (periodic table)\formula.h
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<iostream>
+	"windows.h"
+
+1418132034 source:j:\formuladiary (periodic table)\main.cpp
+	"formula.h"
+
+1418156172 source:g:\my pl project\formuladiary (periodic table) code block\formula.cpp
+	"formula.h"
+
+1418135172 g:\my pl project\formuladiary (periodic table) code block\formula.h
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<iostream>
+	"windows.h"
+
+1418132034 source:g:\my pl project\formuladiary (periodic table) code block\main.cpp
+	"formula.h"
+
